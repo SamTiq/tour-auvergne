@@ -33,6 +33,7 @@ header h1 {
 
 header div{
     width: 30vw;
+    height: 70px;
 }
 
 header ul {
@@ -51,4 +52,8 @@ header ul li{
 
 header ul li:hover{
     background-color: rgba(107, 107, 107, 0.199);
+}
+
+main{
+    background-color: #E9EAEC;
 }
